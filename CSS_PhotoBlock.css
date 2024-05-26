@@ -1,0 +1,48 @@
+body {
+    align-items: center;
+    align-content: center;
+}
+
+nav {
+    width: 700px;
+    height: 100px;
+    text-align: center;
+    align-items: center;
+    margin-left: 250px;
+}
+
+h1 {
+    font-family: 'Chivo Mono', monospace;
+    font-family: 'Signika Negative', sans-serif;
+    margin-bottom: 0;
+}
+
+h2 {
+    font-family: 'Caveat', cursive;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+hr {
+    list-style-type: solid;
+    background-color: darkgray;
+    width: 500px;
+    margin-top: 0;
+    
+}
+
+img {
+    width: 390px;
+    height: 500px;
+    margin: 10px;
+    transition: all 2s 1ms;
+}
+
+img:hover {
+    transform: translateY(-10px);
+}
+
+footer {
+    width: auto;
+    height: 150px;
+    background-color: darkgrey;
+}
